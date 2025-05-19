@@ -35,7 +35,8 @@ A Flutter project that integrates Awesome Notifications with Firebase Firestore.
 
 ## 🖼️ Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/7475c596-7b3d-4ba6-b391-a504effbf1f5)
+![Image](https://github.com/user-attachments/assets/9c1dbc76-37ad-4eeb-a291-65824f39f78b)
 
 ---
 
